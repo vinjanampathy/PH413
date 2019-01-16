@@ -4,3 +4,5 @@
 
 # 1.Basics.ipynb and 2.Python-1.ipynb on January 09, 2019.
 
+# 2. numpy arrays and SHO phase portrait on Jan 16th, 2019.
+
