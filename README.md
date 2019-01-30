@@ -8,4 +8,4 @@
 
 # 3. damped harmonic oscillator and vdp on Jan 23rd, 2019.
 
-# 4. Quantum Mechanics
+# 4. Quantum mechanics with numpy arrays on Jan 30th, 2019.
