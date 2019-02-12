@@ -9,3 +9,7 @@
 # 3. damped harmonic oscillator and vdp on Jan 23rd, 2019.
 
 # 4. Quantum mechanics with numpy arrays on Jan 30th, 2019.
+
+# 5. Test solutions and FFT/Data handling on Feb 06, 2019.
+
+# 6. Stochastic Sampling and Monte Carlo on Feb 13
